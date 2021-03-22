@@ -1,1 +1,1 @@
-web: python versionHeroku.py
+worker: python versionHeroku.py
